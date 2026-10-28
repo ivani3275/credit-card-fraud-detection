@@ -3,7 +3,7 @@
 An end-to-end Machine Learning project that detects potentially fraudulent credit card transactions using Logistic Regression and Random Forest, with an interactive Streamlit web application.
 
 ## 🚀 Live Demo
-Add your Streamlit deployment URL here.
+https://credit-card-fraud-detection-m8juyefcryogelevfvqxrm.streamlit.app/
 
 ## 🎯 Project Objectives
 - Analyze transaction data and identify fraudulent transactions.
